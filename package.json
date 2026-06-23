@@ -1,0 +1,19 @@
+{
+  "name": "junglist",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "build": "vite build",
+    "check": "tsc --noEmit",
+    "dev": "wrangler dev --remote",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "daisyui": "^5.5.19",
+    "tailwindcss": "^4.2.2",
+    "typescript": "^6.0.2",
+    "vite": "^8.0.3",
+    "wrangler": "^4.80.0"
+  }
+}
