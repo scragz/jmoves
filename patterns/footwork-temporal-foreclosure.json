@@ -1,0 +1,399 @@
+{
+  "id": "footwork-temporal-foreclosure",
+  "name": "Temporal Foreclosure",
+  "style": "Footwork",
+  "construct": "1",
+  "description": "Six bars of a clear, lockable footwork grid — then bars 7-8 flood with ratchet pressure so the predicted grid collapses at the boundary. The collapse is the drop; the loop forecloses again.",
+  "bpm": 160,
+  "stepsPerBar": 16,
+  "bars": 8,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 1,
+          "gain": 0.95
+        },
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.8
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.9
+        },
+        null,
+        {
+          "slice": 1,
+          "gain": 0.7
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        {
+          "slice": 1,
+          "gain": 0.95
+        },
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.8
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.9
+        },
+        null,
+        {
+          "slice": 1,
+          "gain": 0.7
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        {
+          "slice": 1,
+          "gain": 0.95
+        },
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.8
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.9
+        },
+        null,
+        {
+          "slice": 1,
+          "gain": 0.7
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        {
+          "slice": 1,
+          "gain": 0.95
+        },
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.8
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.9
+        },
+        null,
+        {
+          "slice": 1,
+          "gain": 0.7
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        {
+          "slice": 1,
+          "gain": 0.95
+        },
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.8
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.9
+        },
+        null,
+        {
+          "slice": 1,
+          "gain": 0.7
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        {
+          "slice": 1,
+          "gain": 0.95
+        },
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.8
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 1,
+          "gain": 0.9
+        },
+        null,
+        {
+          "slice": 1,
+          "gain": 0.7
+        },
+        null,
+        5,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 5,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 7,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 5,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 7,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 5,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 7,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 5,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "ratchet": 4,
+          "gate": 0.028,
+          "gain": 0.8
+        },
+        {
+          "slice": 7,
+          "ratchet": 3,
+          "gate": 0.028,
+          "gain": 0.8
+        }
+      ]
+    }
+  ]
+}

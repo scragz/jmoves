@@ -1,0 +1,94 @@
+{
+  "id": "gabber-monophonic-polyrhythm",
+  "name": "Monophonic Polyrhythm",
+  "style": "Gabber",
+  "construct": "3",
+  "description": "A single kick slice looped four-to-the-floor with heavy saturation and slight pitch movement. Parallel pulse-streams seem to emerge from one element.",
+  "bpm": 190,
+  "stepsPerBar": 16,
+  "bars": 2,
+  "swing": 0,
+  "loop": true,
+  "lands": "A",
+  "partial": "Single saturated kick; the 'multiple streams' are perceptual/somatic and cannot be proven in-signal.",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 1
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 1.02
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 0.99
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 1.01
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 0.98
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 1.03
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 1
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 1,
+          "sat": 0.85,
+          "gain": 0.95,
+          "rate": 0.97
+        },
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

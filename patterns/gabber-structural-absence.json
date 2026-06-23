@@ -1,0 +1,299 @@
+{
+  "id": "gabber-structural-absence",
+  "name": "Structural Absence",
+  "style": "Gabber",
+  "construct": "2",
+  "description": "Two bars build the four-to-the-floor kick expectation, then it is categorically withheld for two more — you supply the missing floor. The sub keeps the promise present as force.",
+  "bpm": 180,
+  "stepsPerBar": 16,
+  "bars": 4,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        {
+          "slice": 1,
+          "sat": 0.7,
+          "gain": 0.95
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null
+      ]
+    },
+    {
+      "type": "sub",
+      "name": "sub",
+      "steps": [
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.85,
+          "gate": 0.18
+        },
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

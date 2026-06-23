@@ -1,0 +1,341 @@
+{
+  "id": "steppers-subdivided-relentlessness",
+  "name": "Subdivided Relentlessness",
+  "style": "Steppers",
+  "construct": "2",
+  "description": "A locked, near-identical dense 16th Amen pattern held for eight bars at steppers tempo. Repetition converts subdivision into weight, not information.",
+  "bpm": 130,
+  "stepsPerBar": 16,
+  "bars": 8,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        1,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        13,
+        {
+          "slice": 14,
+          "gain": 0.8
+        },
+        15,
+        {
+          "slice": 16,
+          "gain": 0.5
+        }
+      ]
+    }
+  ]
+}

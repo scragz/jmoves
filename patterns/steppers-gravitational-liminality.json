@@ -1,0 +1,291 @@
+{
+  "id": "steppers-gravitational-liminality",
+  "name": "Gravitational Liminality",
+  "style": "Steppers",
+  "construct": "1",
+  "description": "The sub carries the 4/4 pulse as force while the kick slice is withheld as event — present-as-force, absent-as-event. The floor is felt through the sub alone.",
+  "bpm": 140,
+  "stepsPerBar": 16,
+  "bars": 4,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        null,
+        null,
+        {
+          "slice": 3,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 5,
+          "gain": 0.6
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 7,
+          "gain": 0.6
+        },
+        null,
+        null,
+        {
+          "slice": 16,
+          "gain": 0.4
+        },
+        null,
+        null,
+        {
+          "slice": 3,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 5,
+          "gain": 0.6
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 7,
+          "gain": 0.6
+        },
+        null,
+        null,
+        {
+          "slice": 16,
+          "gain": 0.4
+        },
+        null,
+        null,
+        {
+          "slice": 3,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 5,
+          "gain": 0.6
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 7,
+          "gain": 0.6
+        },
+        null,
+        null,
+        {
+          "slice": 16,
+          "gain": 0.4
+        },
+        null,
+        null,
+        {
+          "slice": 3,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 5,
+          "gain": 0.6
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        null,
+        null,
+        null,
+        {
+          "slice": 11,
+          "gain": 0.5
+        },
+        null,
+        {
+          "slice": 7,
+          "gain": 0.6
+        },
+        null,
+        null,
+        {
+          "slice": 16,
+          "gain": 0.4
+        }
+      ]
+    },
+    {
+      "type": "sub",
+      "name": "sub",
+      "steps": [
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.9,
+          "gate": 0.2
+        },
+        null,
+        null,
+        null
+      ]
+    }
+  ]
+}

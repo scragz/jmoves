@@ -1,0 +1,246 @@
+{
+  "id": "footwork-stochastic-caesura",
+  "name": "Stochastic Caesura",
+  "style": "Footwork",
+  "construct": "2",
+  "description": "32nd-note density at sub-unity probability with shifting slice choice. Extraction fails; a 'rest' emerges perceptually out of excess rather than silence — and it varies every listen.",
+  "bpm": 160,
+  "stepsPerBar": 16,
+  "bars": 2,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 4,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 6,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 11,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 16,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 5,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 7,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 10,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 3,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 15,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 8,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 9,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 6,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 4,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 11,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 16,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 5,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 4,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 6,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 11,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 16,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 5,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 7,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 10,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 3,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 15,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 8,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 9,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 6,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 4,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 11,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 16,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        },
+        {
+          "slice": 5,
+          "prob": 0.6,
+          "ratchet": 2,
+          "gain": 0.6,
+          "gate": 0.04
+        }
+      ]
+    }
+  ],
+  "notes": "prob is unseeded — Stochastic Caesura should differ per playback (spec §8)."
+}

@@ -1,0 +1,86 @@
+{
+  "id": "breaks-corpse-meter",
+  "name": "Corpse Meter",
+  "style": "Breaks",
+  "construct": "3",
+  "description": "The whole bar plays in original step order, pitched a register down. The surviving sequence under the processing is the 'body' — the drummer's idiom persisting through resampling.",
+  "bpm": 170,
+  "stepsPerBar": 16,
+  "bars": 1,
+  "swing": 0,
+  "loop": true,
+  "lands": "A",
+  "partial": "No native time-stretch: rate shift drops pitch AND stretches duration, so the body survives as overlap, not as preserved timing microstructure.",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 1,
+          "rate": 0.55
+        },
+        {
+          "slice": 2,
+          "rate": 0.55
+        },
+        {
+          "slice": 3,
+          "rate": 0.55
+        },
+        {
+          "slice": 4,
+          "rate": 0.55
+        },
+        {
+          "slice": 5,
+          "rate": 0.55
+        },
+        {
+          "slice": 6,
+          "rate": 0.55
+        },
+        {
+          "slice": 7,
+          "rate": 0.55
+        },
+        {
+          "slice": 8,
+          "rate": 0.55
+        },
+        {
+          "slice": 9,
+          "rate": 0.55
+        },
+        {
+          "slice": 10,
+          "rate": 0.55
+        },
+        {
+          "slice": 11,
+          "rate": 0.55
+        },
+        {
+          "slice": 12,
+          "rate": 0.55
+        },
+        {
+          "slice": 13,
+          "rate": 0.55
+        },
+        {
+          "slice": 14,
+          "rate": 0.55
+        },
+        {
+          "slice": 15,
+          "rate": 0.55
+        },
+        {
+          "slice": 16,
+          "rate": 0.55
+        }
+      ]
+    }
+  ]
+}
