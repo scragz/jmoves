@@ -1,7 +1,7 @@
-import "./styles.css";
 import { AudioEngine } from "./engine/audioEngine";
 import { validatePattern } from "./engine/loader";
 import type { Pattern } from "./engine/types";
+import "./styles.css";
 import { renderGallery } from "./ui/gallery";
 import { startWaveform } from "./ui/waveform";
 
@@ -45,18 +45,17 @@ function buildPage(): void {
   app.className = "max-w-6xl mx-auto p-6";
 
   const header = document.createElement("header");
-  header.className = "mb-8";
+  header.className = "mb-8 mt-[120px]";
   header.innerHTML = `
-    <h1 class="text-4xl font-black tracking-tight">AMEN TRACKER</h1>
+    <h1 class="text-4xl font-black tracking-tight">JUNGLE MOVES</h1>
     <p class="opacity-70 mt-1">
-      12 technique cards over 16 Amen slices — one shared Web Audio context.
-      Pick a card to play; starting one stops the last.
+      Hybrid jungle techniques to challenge listeners.
     </p>
   `;
 
   const canvas = document.createElement("canvas");
-  canvas.className = "w-full h-20 mt-4 rounded bg-base-300 text-secondary";
-  header.appendChild(canvas);
+  canvas.className = "w-full max-w-6xl h-20 mt-4 rounded-full bg-base-300 text-secondary shadow-md fixed z-10";
+  app.appendChild(canvas);
   app.appendChild(header);
 
   const gallery = document.createElement("main");
