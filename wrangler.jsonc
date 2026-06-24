@@ -1,8 +1,10 @@
 {
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "junglist",
-  "main": "index.html",
   "compatibility_date": "2025-01-01",
+  "assets": {
+    "directory": "./dist"
+  },
   "build": {
     "command": "npm run build",
     "watch_dir": ["index.html", "src", "vite.config.ts"]
