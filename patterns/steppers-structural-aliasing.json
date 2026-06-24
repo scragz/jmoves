@@ -1,0 +1,261 @@
+{
+  "id": "steppers-structural-aliasing",
+  "name": "Structural Aliasing",
+  "style": "Steppers",
+  "construct": "3",
+  "description": "A perfectly quantized high-density slice pattern on a 16th-triplet grid, zero swing, with a 7-step slice cycle drifting across the 24-step bar. Metric ambiguity emerges despite — because of — the grid's regularity.",
+  "bpm": 132,
+  "stepsPerBar": 24,
+  "bars": 2,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "id": "footwork-reserved-incompletion",
+  "name": "Reserved Incompletion",
+  "style": "Footwork",
+  "construct": "3",
+  "description": "A dense footwork grid that structurally reserves a recurring metric slot (steps 7 and 15) and refuses to fill it. The shaped gap recurs every bar, waiting.",
+  "bpm": 160,
+  "stepsPerBar": 16,
+  "bars": 2,
+  "swing": 0,
+  "loop": true,
+  "lands": "G",
+  "partial": "The format can mark the reserved slot, but the 'dancer who completes it' is outside the waveform by definition.",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        null,
+        {
+          "slice": 8,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 9,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 10,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 12,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 13,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 1,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 3,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 4,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 5,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        null,
+        {
+          "slice": 8,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 9,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 10,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 11,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 12,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 13,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        {
+          "slice": 16,
+          "gain": 0.7,
+          "gate": 0.05
+        },
+        null,
+        {
+          "slice": 6,
+          "gain": 0.7,
+          "gate": 0.05
+        }
+      ]
+    }
+  ],
+  "notes": "Reserved slot = steps 7 and 15 of each bar (0-indexed 6/14)."
+}

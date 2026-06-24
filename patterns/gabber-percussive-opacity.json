@@ -1,0 +1,101 @@
+{
+  "id": "gabber-percussive-opacity",
+  "name": "Percussive Opacity",
+  "style": "Gabber",
+  "construct": "1",
+  "description": "Maximum slice density routed hard into the shared saturation bus, tuned to sit at the threshold. Rhythm is present but unparseable — opacity as a compositional tool.",
+  "bpm": 180,
+  "stepsPerBar": 16,
+  "bars": 1,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        {
+          "slice": 1,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 3,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 5,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 6,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 7,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 8,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 1,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 10,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 11,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 12,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 9,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 14,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 15,
+          "sat": 0.8,
+          "gain": 0.8
+        },
+        {
+          "slice": 16,
+          "sat": 0.8,
+          "gain": 0.8
+        }
+      ]
+    }
+  ]
+}

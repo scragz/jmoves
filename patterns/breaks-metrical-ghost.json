@@ -1,0 +1,168 @@
+{
+  "id": "breaks-metrical-ghost",
+  "name": "Metrical Ghost",
+  "style": "Breaks",
+  "construct": "1",
+  "description": "A rest sits on the strong beat; dense cells cluster around the hole and the groove pulls toward it. The withheld downbeat does rhythmic work through its own systematic non-occurrence — the sub anchors its implied position.",
+  "bpm": 170,
+  "stepsPerBar": 16,
+  "bars": 2,
+  "swing": 0,
+  "loop": true,
+  "lands": "L",
+  "lanes": [
+    {
+      "type": "slice",
+      "name": "amen",
+      "steps": [
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        {
+          "slice": 15,
+          "gain": 0.6
+        },
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        {
+          "slice": 6,
+          "gain": 0.45
+        },
+        null,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        3,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        5,
+        {
+          "slice": 6,
+          "gain": 0.4
+        },
+        7,
+        {
+          "slice": 8,
+          "gain": 0.7
+        },
+        {
+          "slice": 9,
+          "gain": 0.7
+        },
+        10,
+        {
+          "slice": 11,
+          "gain": 0.4
+        },
+        12,
+        {
+          "slice": 4,
+          "gain": 0.5
+        },
+        {
+          "slice": 15,
+          "gain": 0.6
+        },
+        {
+          "slice": 16,
+          "gain": 0.5
+        },
+        {
+          "slice": 6,
+          "gain": 0.45
+        }
+      ]
+    },
+    {
+      "type": "sub",
+      "name": "sub",
+      "steps": [
+        {
+          "note": 31,
+          "gain": 0.8,
+          "gate": 0.45
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.8,
+          "gate": 0.45
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.8,
+          "gate": 0.45
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        {
+          "note": 31,
+          "gain": 0.8,
+          "gate": 0.45
+        },
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  ],
+  "notes": "Withheld step = beat 1 (index 0/16). Remove the surrounding density and the ghost disappears."
+}
